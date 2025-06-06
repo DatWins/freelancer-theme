@@ -15,7 +15,7 @@ github_username:  jekyll
 skills: Web Developer - Graphic Artist - User Experience Designer
 
 # Header Settings
-set_blog: true                        # Display blog? 
+set_blog: false                        # Display blog? 
 header_bg: background.jpg          # Header background Image
 header_bg_title: <a href='http://www.freepik.com'>Background image Designed by Freepik</a>
 
@@ -26,19 +26,7 @@ footer:                               #Footer Headers
   social: Around the Web
   credits: ABOUT FREELANCER
   
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-# For more icons look at http://fontawesome.io/icons/#brand
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: linkedin
-    url: https://linkedin.com
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+
 
 # Postal address (add as many lines as necessary)
 address:
